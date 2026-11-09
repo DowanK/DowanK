@@ -54,4 +54,6 @@ Python으로 AICC 관련 기사 수집·정리·요약·메일 발송 업무를 
 
 ## 연락처
 
+[Notion 포트폴리오](https://laced-geology-bbe.notion.site/DowanK-AI-AICC-PM-413289a91c688093a420ecae6cb1db15)
+
 [g82llxty@gmail.com](mailto:g82llxty@gmail.com)
